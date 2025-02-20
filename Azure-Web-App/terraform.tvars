@@ -1,0 +1,2 @@
+resource_group_name = "cloud-engineer-rg"
+location = "East US"
